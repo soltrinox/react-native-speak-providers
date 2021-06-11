@@ -5,8 +5,7 @@
   "keywords": [
     "react-native-speak"
   ],
-  "author": "Eric Lewis <ericlewis777@gmail.com>",
-  "homepage": "https://github.com/ericlewis/react-native-speak-providers/packages/base",
+  "homepage": "https://github.com/soltrinox/react-native-speak-providers/packages/base",
   "license": "MIT",
   "main": "build/main/index.js",
   "types": "build/main/index",
@@ -21,9 +20,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericlewis/react-native-speak-providers.git"
+    "url": "git+https://github.com/soltrinox/react-native-speak-providers.git"
   },
   "bugs": {
-    "url": "https://github.com/ericlewis/react-native-speak-providers/issues"
+    "url": "https://github.com/soltrinox/react-native-speak-providers/issues"
   }
 }
